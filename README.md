@@ -1,19 +1,15 @@
 
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=790b7611e9dbaacd716b51be9e46558eb2506d4f7a6c97e6&amp;rid=giphy.gif&amp;ct=s" alt="Dicoding Indonesia Sticker" style="width: 250px; height: 250px; left: 0px; top: 0px;">
+  <img src="https://media3.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=790b7611e9dbaacd716b51be9e46558eb2506d4f7a6c97e6&amp;rid=giphy.gif&amp;ct=s" alt="Dicoding Indonesia Sticker" style="width: 150px; height: 150px; left: 0px; top: 0px;">
 </div>
 
 <h1 align="center">Hi 👋, I'm Mohamed Abouzaid</h1>
 <h3 align="center">MEARN developer from Egypt</h3>
-<p>I am a Full Stack Developer</p> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+<p>I am a Full Stack Developer using HTML, CSS , and JavaScript and learning React, Angular Frameworks as a Front End Developer, While using Node.js, Express and Mango DB for Backend Development and interacting with DB</p> 
 
-<p>
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
 - :seedling: Exploring Technical Content Writing.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
