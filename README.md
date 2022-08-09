@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media3.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=790b7611e9dbaacd716b51be9e46558eb2506d4f7a6c97e6&amp;rid=giphy.gif&amp;ct=s" alt="Dicoding Indonesia Sticker" style="width: 500px; height: 500px; left: 0px; top: 0px;">
 </div>
 <!--
 **mohamedabouzaid/mohamedabouzaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
