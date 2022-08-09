@@ -5,8 +5,15 @@
 
 <h1 align="center">Hi 👋, I'm Mohamed Abouzaid</h1>
 <h3 align="center">MEARN developer from Egypt</h3>
+<p>I am a Full Stack Developer</p> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
+<p>
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
+- :seedling: Exploring Technical Content Writing.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
