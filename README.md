@@ -10,7 +10,8 @@
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - :seedling: Exploring Technical Content Writing.
 
-
+<h3 align="left">My CV:</h3>
+<p align="left"></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mohamed-abouzaid-621665225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed abouzaid" height="30" width="40" /></a>
