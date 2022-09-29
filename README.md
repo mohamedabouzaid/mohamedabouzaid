@@ -11,7 +11,9 @@
 - :seedling: Exploring Technical Content Writing.
 
 <h3 align="left">My CV:</h3>
-<p align="left"></p>
+<p align="left">
+https://drive.google.com/drive/folders/1uFZuQnZYL2Rt9_z8yUMPx5f77TDrO5Om?fbclid=IwAR1bptX0aG-Tlb-WK5Zy4X4FsEZWsvpeyPTcWp_B4abZ5iJpys4r0O-q72I&direction=a
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mohamed-abouzaid-621665225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed abouzaid" height="30" width="40" /></a>
