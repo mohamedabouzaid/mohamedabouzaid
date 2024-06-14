@@ -4,8 +4,14 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Mohamed Abouzaid</h1>
-<h3 align="center">MEARN developer from Egypt</h3>
-<p>I am a Full Stack Developer using HTML, CSS , and JavaScript and learning React, Angular Frameworks as a Front End Developer, While using Node.js, Express and Mango DB for Backend Development and interacting with DB</p> 
+<h3 align="center">Software   Engineer</h3>
+<p>I am a dedicated software engineer with a strong educational background in Computer Science and valuable industry experience. I hold a degree in Computer Science and have honed my skills through internships and professional work. During my internship at ITI, I gained practical experience in the MEARN stack (MongoDB, Express.js, Angular ,React, and Node.js), working on the development of web applications.
+
+Following my ITI , I had the opportunity to work for Huawei, a prominent technology company, where I served as a software engineer for over a year. During my time at Huawei, I contributed to various projects, gaining expertise in backend development. This experience allowed me to further enhance my technical abilities and provided valuable insights into working on large-scale projects within a dynamic team environment.
+
+In addition to my professional experience, I have also dedicated eight months to working as a backend developer at Skill Up , six months as a software Engineer at MIGA , and more than two years as developer at Egypt Army . This experience enabled me to strengthen my backend development skills and expand my knowledge in areas such as database management and API design.
+
+With a solid foundation in computer science principles and practical experience in the industry, I am well-equipped to handle the challenges of software engineering. I possess strong problem-solving capabilities, a passion for innovation, and the ability to adapt to new technologies and frameworks.</p> 
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - :seedling: Exploring Technical Content Writing.
